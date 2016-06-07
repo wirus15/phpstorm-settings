@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
+      <mapping ext="005" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="gpg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
