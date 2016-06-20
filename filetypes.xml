@@ -6,6 +6,7 @@
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="005" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="001" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="002" type="PLAIN_TEXT" />
     </extensionMap>
