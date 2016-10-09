@@ -4,6 +4,7 @@
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="dupa" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="005" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
