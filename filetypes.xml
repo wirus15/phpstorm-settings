@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="ResponseError" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="dupa" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
