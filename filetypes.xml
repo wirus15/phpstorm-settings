@@ -14,6 +14,7 @@
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping ext="002" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="YAML" />
+      <mapping pattern="OrderTransferCommand" type="YAML" />
     </extensionMap>
   </component>
 </application>
