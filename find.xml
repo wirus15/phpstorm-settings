@@ -3,5 +3,19 @@
     <option name="customScope" value="Directory '[panel] - .../src/lib'" />
     <option name="defaultScopeName" value="Directory '[panel] - .../src/lib'" />
     <option name="SEARCH_SCOPE" value="Directory '[panel] - .../src/lib'" />
+    <option name="FILE_MASK" value=".spec.js" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>.spec.js</mask>
+    </recentFileMasks>
   </component>
 </application>
