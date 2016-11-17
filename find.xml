@@ -3,7 +3,6 @@
     <option name="customScope" value="Directory '[panel] - .../src/lib'" />
     <option name="defaultScopeName" value="Directory '[panel] - .../src/lib'" />
     <option name="SEARCH_SCOPE" value="Directory '[panel] - .../src/lib'" />
-    <option name="FILE_MASK" value=".spec.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
