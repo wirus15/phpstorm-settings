@@ -9,13 +9,14 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>.spec.js</mask>
       <mask>*.html.twig</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
