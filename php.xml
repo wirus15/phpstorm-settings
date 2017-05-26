@@ -7,7 +7,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="f62e7555-6cf4-4ec4-bc77-c3fe909d56ff" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="f62e7555-6cf4-4ec4-bc77-c3fe909d56ff" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
