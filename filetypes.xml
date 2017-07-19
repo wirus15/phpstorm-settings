@@ -8,6 +8,7 @@
       <mapping pattern="dupa" type="PLAIN_TEXT" />
       <mapping pattern="NewsRepository" type="PLAIN_TEXT" />
       <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="raw" type="PLAIN_TEXT" />
