@@ -16,9 +16,9 @@
       <mask>.spec.js</mask>
       <mask>*.html.twig</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.two</mask>
