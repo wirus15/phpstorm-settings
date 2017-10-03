@@ -17,7 +17,6 @@
       <mask>.spec.js</mask>
       <mask>*.html.twig</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
@@ -25,6 +24,9 @@
       <mask>*.twig</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>fo</mask>
+      <mask>form</mask>
     </recentFileMasks>
   </component>
 </application>
