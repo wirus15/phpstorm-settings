@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,10 +17,7 @@
       <mask>*.html.twig</mask>
       <mask>*</mask>
       <mask>*.php</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.two</mask>
-      <mask>*.twig</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
@@ -31,6 +29,10 @@
       <mask>scss</mask>
       <mask>*scss</mask>
       <mask>*.scss</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
