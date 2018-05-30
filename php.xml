@@ -1,11 +1,13 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/www/esbo/vendor/phpmd/phpmd/src/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="f62e7555-6cf4-4ec4-bc77-c3fe909d56ff" tool_path="/opt/project/vendor/phpmd/phpmd/src/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="f62e7555-6cf4-4ec4-bc77-c3fe909d56ff" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/opt/project/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
