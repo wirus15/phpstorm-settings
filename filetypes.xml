@@ -1,23 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping pattern="ResponseError" type="PLAIN_TEXT" />
+      <mapping pattern="status-api" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern="dupa" type="PLAIN_TEXT" />
       <mapping pattern="cardAddressForm" type="PLAIN_TEXT" />
       <mapping pattern="NewsRepository" type="PLAIN_TEXT" />
-      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="raw" type="PLAIN_TEXT" />
       <mapping ext="005" type="PLAIN_TEXT" />
-      <mapping ext="002" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="001" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
-      <mapping ext="raw" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="002" type="PLAIN_TEXT" />
       <mapping pattern="commands" type="YAML" />
       <mapping pattern="OrderTransferCommand" type="YAML" />
     </extensionMap>
